@@ -1,3 +1,8 @@
+#### 在根目录下下载ncnn
+```bash
+git clone https://github.com/Tencent/ncnn.git
+```
+
 #### 1 Pytorch 2 ONNX 2 ONNX-sim
 
 ```python
